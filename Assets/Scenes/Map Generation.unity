@@ -428,9 +428,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   noiseMapGeneration: {fileID: 0}
-  tileRenderer: {fileID: 0}
-  meshFilter: {fileID: 0}
-  meshCollider: {fileID: 0}
+  tileRenderer: {fileID: 1298764166}
+  meshFilter: {fileID: 1298764167}
+  meshCollider: {fileID: 1298764165}
   mapScale: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
